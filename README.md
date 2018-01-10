@@ -5,4 +5,4 @@ Part 2 - Feed forward Radial Basis Function (RBF) Network in Python that classif
 
        - K-Means Clustering is used to determine the prototype vectors for the hidden RBF layer.
        
-       - TODO: use linear classifier in backprop to fix network accuracy
+       - TODO: use linear classifier in RBF backprop to fix network accuracy
