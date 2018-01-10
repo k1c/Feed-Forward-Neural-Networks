@@ -1,6 +1,7 @@
 # COMP 4107 Feed_Forward_Neural_Networks
 
 Carolyne Pelletier
+
 Akhil Dalal
 
 To run:
