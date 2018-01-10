@@ -1,4 +1,4 @@
-# COMP 4107 Feed_Forward_Neural_Networks
+# COMP 4107 Feed-Forward-Neural-Networks
 
 Carolyne Pelletier
 
